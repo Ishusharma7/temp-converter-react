@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.temp {
+  display: inline-flex;
+  margin: 2em;
+  padding: 2em;
+  background-color: rgb(168, 87, 243);
+  box-shadow: 6px 3px 11px rgb(213, 187, 238);
+  border: double;
+  border-radius: 10px;
+  margin-top: 150px;
+}
+body {
+  background-color: rgba(45, 21, 59, 0.712);
+}
+h1 {
+  color: rgb(247, 247, 247);
+}
+input {
+  color: black;
+  border: solid 2px rgba(45, 21, 59, 0.712);
+  border-radius: 5px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
