@@ -2,7 +2,8 @@
 About The Project :
                       This is a temprature converter programme from celsius change to fehrenite and vice versa
 
-Main techs in this project was  { lifting state, how to pass props, event handlers }
+Main techs in this project :
+                         { lifting state, how to pass props, event handlers }
 
 Working :
                 files --> celsius.js , fehrenite.js , style.css rendered the UI of the project 
